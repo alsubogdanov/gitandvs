@@ -1,5 +1,4 @@
-let num = 5;
+const name = 'Kate';
 
 console.log('fgfjfj');
 console.log('ghjghj');
-
